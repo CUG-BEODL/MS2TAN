@@ -4,13 +4,15 @@
 </div>
 
 <div align="center">
+
 [[Paper]](https://doi.org/10.1109/tgrs.2025.3574799), [[arXiv]](https://arxiv.org/abs/2406.13358), [[Code]](https://github.com/CUG-BEODL/MS2TAN)
+
 </div>
 
 The official PyTorch implementation of the paper "Multiscale Restoration of Missing Data in Optical Time-series Images with Masked Spatial-Temporal Attention Network".
 
 > MS$^2$TAN is named after **M**ulti-**S**cale **M**asked **S**patial-**T**emporal **A**ttention **N**etwork.
-> 
+
 > MSMSTAN -> (MS)$^2$TAN -> MS$^2$TAN ✨️
 
 <!-- **Since the original code implementation is rather messy, we will open the source code after organizing it. Please stay tuned for future updates.** -->
